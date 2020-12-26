@@ -23,11 +23,11 @@ TODO
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" height="50" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/karma.svg" alt="karma" height="50" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/leafjet.svg" alt="leafjet" height="50" /> 
-<img style="margin: 10px" src="https://cdn.svgporn.com/logos/markdown.svg" alt="markdown" height="50" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/redux-observable.svg" alt="edux-observable" height="50" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/selenium.svg" alt="selenium" height="50" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg" alt="vuetifyjs" height="50" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/material-ui.svg" alt="material-ui" height="50" /> 
+<img style="margin: 10px" src="https://cdn.svgporn.com/logos/chai.svg" alt="Chai" height="50" />  
  </div>
 
 </td><td valign="top" width="33%">
@@ -48,7 +48,6 @@ TODO
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/gradle.svg" alt="Gradle" height="50" />  
-<img style="margin: 10px" src="https://cdn.svgporn.com/logos/chai.svg" alt="Chai" height="50" />  
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/swagger.svg" alt="swagger" height="50" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/unity.svg" alt="unity" height="50" /> 
 </div>
@@ -70,6 +69,9 @@ TODO
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/intellij-idea.svg" alt="IntelliJ" height="50" />  
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode" height="50" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/postman.svg" alt="postman" height="50" /> 
+<img style="margin: 10px" src="https://cdn.svgporn.com/logos/markdown.svg" alt="markdown" height="50" /> 
+  
+<img style="margin: 10px" src="https://cdn.svgporn.com/logos/jenkins.svg" alt="jenkins" height="50" />  
   
 
 
