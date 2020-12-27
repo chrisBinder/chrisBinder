@@ -28,6 +28,16 @@
 
 ##### <div align="center">ＭＹ ＴＥＣＨ ＳＴＡＣＫ</div>
 
+###### <div align="center">ＭＡＩＮ</div>
+
+<div align="center">   
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" />  
+<img style="margin: 15px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="35" /> 
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node.js" width="35" /> 
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />  
+<img style="margin: 15px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="35" />  
+ </div>
+
 
 ###### <div align="center">ＦＲＯＮＴＥＮＤ</div>
 
@@ -35,7 +45,7 @@
 
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="AngularJS" height="35" />  
+<img style="margin: 15px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="35" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="35" />
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg" alt="vuetifyjs" height="35" /> 
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/material-ui.svg" alt="material-ui" height="35" />  
@@ -80,7 +90,6 @@
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/bitbucket.svg" alt="Bitbucket" height="35" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" height="35" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/subversion.svg" alt="subversion" width="35" />
-
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /> 
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/jenkins.svg" alt="jenkins" height="35" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/circleci.svg" alt="CircleCI" height="35" /> 
