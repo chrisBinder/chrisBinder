@@ -1,14 +1,27 @@
-### <div align="center">I'm Chris</div>
+### <div align="center">ＣＨＲＩＳ</div>
+##### <div align="center">２８ ＹＯ 𐄁 ＧＥＲＭＡＮＹ</div>
+##### <div align="center">ＳＯＦＴＷＡＲＥ⠀ＥＮＧＩＮＥＥＲ 𐄁 ４ ＹＯＥ 𐄁 ＦＵＬＬ⠀ＳＴＡＣＫ</div>
 
-TODO
+<div align="center">
+<a href="https://linkedin.com/in/christian-binder-6045761a0" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/chrisBinder" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+###### ｐｒｅｖｉｏｕｓ⠀ｐｒｏｊｅｃｔ⠀ｉｎｄｕｓｔｒｉｅｓ:
+![PublicTransport](https://shields.io/badge/%F0%9F%9A%82-Public%20Transport-blue?style=for-the-badge)
+![InternetRetail](https://shields.io/badge/%F0%9F%92%B0-Internet%20retail-yellow?style=for-the-badge) 
+![PublicTransport](https://shields.io/badge/%F0%9F%9A%97-Intermodal%20Routing-red?style=for-the-badge)  
 
 <br/>
 
-## My Skill Set
+##### ＭＹ ＴＥＣＨ ＳＴＡＣＫ
 
 
-
-### Frontend
+###### ＦＲＯＮＴＥＮＤ
 
 <div align="center">   
 
@@ -29,7 +42,7 @@ TODO
 
  </div>
 
-### Backend
+###### ＢＡＣＫＥＮＤ
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
@@ -49,7 +62,7 @@ TODO
 
 </td><td valign="top" width="33%">
 
-### DevOps/Tools
+##### ＤＥＶＯＰＳ/ＴＯＯＬＳ
 
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" width="25" />  
@@ -74,16 +87,7 @@ TODO
 
 <br/>
 
-## Connect with me
 
-<div align="center">
-<a href="https://linkedin.com/in/christian-binder-6045761a0" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/chrisBinder" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>
 
 <br/>
 
