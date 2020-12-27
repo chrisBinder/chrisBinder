@@ -70,7 +70,6 @@
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="35" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/gradle.svg" alt="Gradle" height="35" />
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="35" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" />
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" />    
@@ -87,6 +86,7 @@
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="Windows" height="35" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/macOS.svg" alt="MacOS" width="35" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" />   
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/bitbucket.svg" alt="Bitbucket" height="35" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub" height="35" />  
 <img style="margin: 15px" src="https://cdn.svgporn.com/logos/subversion.svg" alt="subversion" width="35" />
