@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-<a href="https://linkedin.com/in/christian-binder-6045761a0" target="_blank">
+<a href="https://linkedin.com/in/ch-binder" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.xing.com/profile/Christian_Binder111/cv" target="_blank">
